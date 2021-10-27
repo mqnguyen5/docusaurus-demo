@@ -9,7 +9,7 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://mqnguyen5.github.io',
-  baseUrl: '/docusaurus-demo',
+  baseUrl: '/docusaurus-demo/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
